@@ -1,0 +1,15 @@
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\bin\Debug\net6.0\Lab1JasmineCarrasco.exe
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\bin\Debug\net6.0\Lab1JasmineCarrasco.deps.json
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\bin\Debug\net6.0\Lab1JasmineCarrasco.runtimeconfig.json
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\bin\Debug\net6.0\Lab1JasmineCarrasco.dll
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\bin\Debug\net6.0\Lab1JasmineCarrasco.pdb
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.csproj.AssemblyReference.cache
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.AssemblyInfoInputs.cache
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.AssemblyInfo.cs
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.csproj.CoreCompileInputs.cache
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.dll
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\refint\Lab1JasmineCarrasco.dll
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.pdb
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\Lab1JasmineCarrasco.genruntimeconfig.cache
+C:\Users\jasmine.carrasco\source\repos\Lab1JasmineCarrasco\obj\Debug\net6.0\ref\Lab1JasmineCarrasco.dll
